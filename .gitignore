@@ -1,0 +1,8 @@
+.terraform/
+.terraform.*
+testdeployment.yml
+variables.tf
+deployments/*.yaml
+deployments/testdeployment.tf
+terraform.tfstate
+terraform.tfstate.backup
